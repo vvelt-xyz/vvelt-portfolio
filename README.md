@@ -11,7 +11,7 @@
 
 | 名前 | GitHub | Demo | 証明すること |
 |---|---|---|---|
-| POS Lite | [portfolio-pos-lite](https://github.com/vvelt-xyz/portfolio-pos-lite) | （デプロイ後に追記） | 飲食向け Web POS のコア動線（フロア→注文→提供→会計） |
+| POS Lite | [portfolio-pos-lite](https://github.com/vvelt-xyz/portfolio-pos-lite) | [portfolio-pos-lite.pages.dev](https://portfolio-pos-lite.pages.dev/) | 飲食向け Web POS のコア動線（フロア→注文→提供→会計） |
 
 ## 見方
 
