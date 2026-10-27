@@ -5,6 +5,7 @@
 本番プロダクトのリポジトリは private のままです。ここに載るのは、切り出してリビルドした **ショーケース** への目次です。
 
 型の正本（組織内）: `00_vvelt-development` の `docs/portfolio.md`  
+リビルド規約: 同 `docs/portfolio-rebuild.md`（劣化版にしない・デモとコードは同一品質）  
 カタログ: 同 `docs/portfolio-catalog.md`
 
 ## Showcases
