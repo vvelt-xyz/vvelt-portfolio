@@ -13,7 +13,7 @@ Skill: `portfolio-showcase`
 
 | 名前 | GitHub | Demo | 証明すること |
 |---|---|---|---|
-| （準備中） | — | — | POS 等のフル寄与ショーケースを新規起票予定 |
+| WELT POS | [portfolio-pos](https://github.com/vvelt-xyz/portfolio-pos) | [vvelt-portfolio-pos.vercel.app](https://vvelt-portfolio-pos.vercel.app) | フロア起点の案内→注文→提供→会計（税・端数・複数端末同期）を Auth 付きで本番相当に実装できる |
 
 旧 `portfolio-pos-lite`（薄い SPA）は 2026-10-27 にアーカイブ済み。ハブからは外す。
 
